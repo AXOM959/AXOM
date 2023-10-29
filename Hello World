@@ -1,0 +1,11 @@
+print('Hello World')
+print('My Name Is: A_X_&_O_M_9_5_9')
+Public MyClass {
+    Public Static Void Main(String [] Args) {
+       System.out.println("Hello Ngab");
+    }
+} 
+Public MyClass {
+       System.out.println("Recode AXOM959");
+    }
+} 
